@@ -1,13 +1,21 @@
 {
-  "plugins": ["expandable-chapters"], 
+  "plugins": [
+    "expandable-chapters",
+    "favicon"
+  ],
   "pluginsConfig": {
+    "favicon": {
+      "shortcut": "images/logo.ico",
+      "bookmark": "images/logo.ico",
+      "appleTouch": "images/logo.ico"
+    },
     "expandable-chapters": {
       "chapterDepth": 3,
       "entry": true,
       "arrow": {
-  "collapsed": "➕",  
-  "expanded": "➖"    
-},
+        "collapsed": "➕",
+        "expanded": "➖"
+      },
       "collapsed": true
     }
   }

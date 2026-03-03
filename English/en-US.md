@@ -1,24 +1,29 @@
-# 短剧APP使用教程（用户端）
-
-> **APP客户端链接：** https://h5.lollipop.im/
-
-> **系统名称：** Lollipop 短剧平台
-
-> **适用平台：** iOS、Android APP
 
 ---
 
-## 📖 目录
+# Short Drama APP User Guide (User Side)
 
-1. [如何注册并登录？](#1-如何注册和登录)
-2. [获取积分的途径有哪些？](#2-获取积分的途径有哪些)
-3. [怎么才能获取会员？](#3-怎么才能获取会员)
-4. [怎么使用积分兑换LOL？](#4-怎么使用积分兑换lol)
-5. [怎么提现？](#5-怎么提现)
+> **APP Client Link:** [https://h5.lollipop.im/](https://h5.lollipop.im/)
+
+> **System Name:** Lollipop Short Drama Platform
+
+> **Supported Platforms:** iOS, Android APP
+
 ---
 
-## 1. 如何注册并登录
-#### 1.1选择注册方式
+## 📖 Table of Contents
+
+1. [How to Register and Log In?](#1-how-to-register-and-log-in)
+2. [How to Earn Points?](#2-how-to-earn-points)
+3. [How to Get Membership?](#3-how-to-get-membership)
+4. [How to Use Points to Redeem LOL?](#4-how-to-use-points-to-redeem-lol)
+5. [How to Withdraw?](#5-how-to-withdraw)
+
+---
+
+## 1. How to Register and Log In
+
+### 1.1 Choose Registration Method
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -31,8 +36,9 @@
 
 ---
 
-#### 1.2 使用 ***Sign in with Google*** 进行注册 
-* 选择 ***Sign in with Google*** 
+### 1.2 Register Using **Sign in with Google**
+
+* Select **Sign in with Google**
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -43,8 +49,9 @@
      >
     </figure>
 
-##### 在***Google 浏览器***里打开
-* 选择确认登录的账号
+#### Open in **Google Chrome**
+
+* Select the account you want to use to log in
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -55,7 +62,7 @@
      >
     </figure>
 
-* 点击 ***要登录的账号***
+* Click the account you want to log in with
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -66,7 +73,7 @@
      >
     </figure>
 
-* 提示 ***Login successful或登录成功*** 就表示 ***登录成功了***
+* When you see **“Login successful”**, it means the login was successful
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -77,10 +84,9 @@
      >
     </figure>
 
-----
+#### Open in **Other Browsers**
 
-##### 在***非Google浏览器***里打开
-* 输入您的谷歌 ***邮箱账号***，然后点击下一步
+* Enter your Google email address and click **Next**
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -91,7 +97,8 @@
      >
     </figure>
 
-* 输入您的谷歌 ***邮箱密码***，然后点击下一步
+
+* Enter your Google email password and click **Next**
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -102,7 +109,7 @@
      >
     </figure>
 
-* 提示 ***Login successful或登录成功*** 就表示 ***登录成功了***
+* When you see **“Login successful”**, it means the login was successful
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -115,8 +122,9 @@
 
 ---
 
-#### 1.3 使用 ***Sign in with Email*** 进行注册 
-* **第一步：**选择 ***Sign in with Email***
+### 1.3 Register Using **Sign in with Email**
+
+* **Step 1:** Select **Sign in with Email**
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -127,7 +135,7 @@
      >
     </figure>
 
-* **第二步：**点击 ***注册***，注册您的邮箱账号
+* **Step 2:** Click **Register** to create your email account
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -138,7 +146,7 @@
      >
     </figure>
 
-* **第三步：**输入 ***邮箱账号***，可以使用多种类型邮箱，分别为：**QQ邮箱、谷歌邮箱、163邮箱**
+* **Step 3:** Enter your email address. Supported email types include: **QQ Mail, Gmail, 163 Mail**
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -149,7 +157,7 @@
      >
     </figure>
 
-* **第四步：**设置您的 ***密码*** 并再次输入 ***确认密码***，保持一致
+* **Step 4:** Set your password and enter it again to confirm (make sure they match)
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -160,7 +168,7 @@
      >
     </figure>
 
-* **第五步：**获取您的 ***邮箱验证码*** 并输入
+* **Step 5:** Obtain your email verification code and enter it
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -171,7 +179,7 @@
      >
     </figure>
 
-* **第六步：**然后点击 ***立即注册***，提示 ***注册成功*** 后就是注册完成并自动登录
+* **Step 6:** Click **Register Now**. When you see **Registration successful**, registration is complete and you will be logged in automatically
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -184,10 +192,12 @@
 
 ---
 
-## 2. 获取积分的途径有哪些
-#### 2.1 首次注册系统赠送500积分（限首次注册用户）
-* 注册请参考 ***[如何注册并登录？](#1-如何注册并登录)***
-* 进入 ***奖励页面***
+## 2. How to Earn Points
+
+### 2.1 First-Time Registration Bonus: 500 Points (Only for First-Time Users)
+
+* Please refer to **How to Register and Log In?**
+* Go to the **Rewards Page**
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -198,7 +208,7 @@
      >
     </figure>
 
-* 点击 ***查看记录*** 就可以看到积分明细
+* Click **View Records** to check your points details
 <figure style="margin-bottom: 0;">
      <img 
           style=""
@@ -209,18 +219,13 @@
      >
     </figure>
 
-<figure style="margin-bottom: 0;margin-left: 31px;">
-     <img 
-          style=""
-          src="../images/Snipaste_2026-01-29_17-30-22.png"
-          width="200"
-          height="400"
-          style="display: block; margin: 0 auto;"
-     >
-    </figure>
+---
 
-#### 2.2 每次邀请好友奖励500积分（奖励次数无限）（好友必须注册成功才有效）
-* 进入 ***奖励页面***
+### 2.2 Invite Friends: Earn 500 Points per Invitation (Unlimited Times)
+
+*(The friend must complete registration for the reward to be valid)*
+
+* Go to the **Rewards Page**
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -231,7 +236,7 @@
      >
     </figure>
 
-* 点击 **邀请** 后往下滑动找到自己的分享链接🔗
+* Click **Invite**, then scroll down to find your sharing link 🔗
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -242,7 +247,7 @@
      >
     </figure>
 
-* 有两种邀请好友方式 **推荐使用第二种方式** 直接点击即可
+* There are two ways to invite friends. **It is recommended to use the second method** (direct click).
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -253,7 +258,7 @@
      >
     </figure>
 
-* 好友注册完成后，打开积分明细查看积分到账
+* After your friend completes registration, check the points details to confirm the points have been credited
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -264,13 +269,17 @@
      >
     </figure>
 
-#### 2.3 看剧得积分(会员与非会员)
->**看剧得积分规则** 
+---
 
->**普通用户：** 普通用户每分钟获得10积分
+### 2.3 Watch Dramas to Earn Points (Members & Non-Members)
 
->**会员用户：** 会员用户则直接2倍也就是20积分
-* 只要带有计时器的视频都是可以看剧积分的
+> **Points Earning Rules While Watching**
+
+> **Regular Users:** Earn 10 points per minute
+
+> **Member Users:** Earn double points, 20 points per minute
+
+* Any video with a timer allows you to earn points
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -281,7 +290,7 @@
      >
     </figure>
 
->* 当 **计时器上** 显示 **立即获取** ，那就是积分已经到账了
+* When the timer shows **“Claim Now”**, it means the points have been credited
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -292,7 +301,7 @@
      >
     </figure>
 
->* 普通用户
+* Regular User
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -303,7 +312,7 @@
      >
     </figure>
 
->* 会员用户
+* Member User
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -316,11 +325,13 @@
 
 ---
 
-## 3. 怎么才能获取会员
-#### 3.1 获取会员的方式
-> **兑换会员规则：** 10000积分=1年会员
+## 3. How to Get Membership
 
-* 首先进入 **个人中心** ，点击会员区域
+### 3.1 Membership Redemption Rules
+
+> **Membership Exchange Rule:** 10,000 points = 1 year membership
+
+* First, go to **Profile Center** and click the membership section
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -331,7 +342,7 @@
      >
     </figure>
 
-* 点击购买，即可 **解锁会员！**
+* Click purchase to **unlock membership**
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -342,7 +353,7 @@
      >
     </figure>
 
-* 这里可以看 **会员到期时间**
+* You can check your **membership expiration date** here
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -355,11 +366,13 @@
 
 ---
 
-## 4. 怎么使用积分兑换LOL
-#### 4.1 积分兑换LOL入口
-> **积分兑换LOL比例：** 100积分=1LOL
+## 4. How to Use Points to Redeem LOL
 
-* 点击进入 **兑换**
+### 4.1 Points-to-LOL Exchange Entry
+
+> **Exchange Rate:** 100 points = 1 LOL
+
+* Click to enter **Exchange**
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -370,7 +383,7 @@
      >
     </figure>
 
-* 这里可以看到积分兑换LOL币的比例 **100积分=1LOL**
+* You can see the exchange rate: **100 points = 1 LOL**
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -381,7 +394,12 @@
      >
     </figure>
 
-* 可以看到 **100=1LOL** **1000积分=10LOL** **10000积分=100LOL** 自己有多少积分就输入多少
+* Example conversions:
+
+  * 100 = 1 LOL
+  * 1000 points = 10 LOL
+  * 10000 points = 100 LOL
+* Enter the number of points according to your balance
 <figure style="margin-bottom: 0;">
      <img 
           style=""
@@ -412,17 +430,22 @@
 
 ---
 
-## 5. 怎么提现
-> **Metamask下载：** **https://play.google.com/store/apps/details?id=io.metamask**
+## 5. How to Withdraw
 
-> **LOL币地址：** 0xc7Ef0284223D188Ccbd71797922946ac0058dFA9
+> **Download MetaMask:** [https://play.google.com/store/apps/details?id=io.metamask](https://play.google.com/store/apps/details?id=io.metamask)
 
-> **USDT最低提现数量：** 20USDT
+> **LOL Token Contract Address:**
+> 0xc7Ef0284223D188Ccbd71797922946ac0058dFA9
 
-> **LOL币最低提现数量：** 100LOL
+> **Minimum USDT Withdrawal:** 20 USDT
 
-#### 5.1 如何找到LOL币
-* 第一步：进入到 **Metamask钱包** 首页，切换 **Base网络**
+> **Minimum LOL Withdrawal:** 100 LOL
+
+---
+
+### 5.1 How to Add the LOL Token
+
+* **Step 1:** Open the **MetaMask wallet** homepage and switch to the **Base network**
 <figure style="margin-bottom: 6rem;">
      <img 
           style=""
@@ -433,7 +456,7 @@
      >
     </figure>
 
-* 第二步： 点击➕号
+* **Step 2:** Click the **➕ icon**
 <figure style="margin-bottom: 6rem;">
      <img 
           style=""
@@ -444,7 +467,9 @@
      >
     </figure>
 
-* 第三步：复制 **0xc7Ef0284223D188Ccbd71797922946ac0058dFA9** 点击Next
+* **Step 3:** Copy the contract address
+  `0xc7Ef0284223D188Ccbd71797922946ac0058dFA9`
+  then click **Next**
 <figure style="margin-bottom: 6rem;">
      <img 
           style=""
@@ -454,8 +479,8 @@
           style="display: block; margin: 0 auto;"
      >
     </figure>
-    
-* 第四步：点击 **import** 
+
+* **Step 4:** Click **Import**
 <figure style="margin-bottom: 6rem;">
      <img 
           style=""
@@ -466,7 +491,7 @@
      >
     </figure>
 
-* 第五步：返回到首页 **Seeing this means it was successful**
+* **Step 5:** Return to the homepage. **Seeing this means it was successful**
 <figure style="margin-bottom: 0rem;">
      <img 
           style=""
@@ -485,9 +510,12 @@
           style="display: block; margin: 0 auto;"
      >
     </figure>
-    
-#### 5.2 如何找到自己的接收地址
-* **第一步：**点击**Lollipop Coin**
+
+---
+
+### 5.2 How to Find Your Receiving Address
+
+* **Step 1:** Click **Lollipop Coin**
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -498,7 +526,7 @@
      >
     </figure>
 
-* **第二步：**点击**Receive(接收)** 
+* **Step 2:** Click **Receive**
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -509,7 +537,7 @@
      >
     </figure>
 
-* **第三步：**点击**Copy address(复制地址)** 既可拿到自己的接收地址
+* **Step 3:** Click **Copy Address** to obtain your receiving address
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -520,8 +548,11 @@
      >
     </figure>
 
-#### 5.3 如何提现LOL
-* **第一步：**首先进入**钱包**
+---
+
+### 5.3 How to Withdraw LOL
+
+* **Step 1:** Go to **Wallet**
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -532,7 +563,7 @@
      >
     </figure>
 
-* **第二步：**根据下边图片里的步骤**切换到LOL**
+* **Step 2:** Follow the steps in the image below to switch to **LOL**
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -543,7 +574,7 @@
      >
     </figure>
 
-* **第三步：****申请提现成功**
+* **Step 3:** **Withdrawal request submitted successfully**
 <figure style="margin-bottom: 10rem;">
      <img 
           style=""
@@ -554,10 +585,4 @@
      >
     </figure>
 
-
-
-
-
-
-
-
+---
