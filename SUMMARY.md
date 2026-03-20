@@ -1,7 +1,6 @@
 # Summary
 
 * [Welcome! Lollipop](README.md)
-* [简体中文](./简体中文/zh-US.md)
-* [English](./English/en-US.md)
-* [Português](./Portuguese/pt-US.md)
-
+* [简体中文](简体中文/zh-US.md)
+* [English](English/en-US.md)
+* [Português](Portuguese/pt-US.md)
